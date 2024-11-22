@@ -31,7 +31,7 @@ section
 
 |Name      |Age|
 |----------|---|
-|Ethan     |15 |
+|Ethan     |20 |
 
 This is __bold__ and **this is bold**
 This text is _italicized_  
